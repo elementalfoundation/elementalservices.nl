@@ -2,6 +2,9 @@
 
 Let's see if this renders. 
 
+Thank you:  
+- [markdown-it](https://github.com/markdown-it/markdown-it).
+
 ## Lorem Ipsum Dolor Sit Amet
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod, nisi eu consectetur cursus, enim erat dictum urna, nec dictum massa enim nec erat. Etiam euismod, urna eu tincidunt consectetur, nisi nisl aliquam nunc, vitae aliquam nisi nisl eu nunc. Mauris euismod, urna eu tincidunt consectetur, nisi nisl aliquam nunc, vitae aliquam nisi nisl eu nunc.
