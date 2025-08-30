@@ -3,7 +3,7 @@
 Let's see if this renders. 
 
 Thank you:  
-- [markdown-it](https://github.com/markdown-it/markdown-it).
+- [markdown-it](https://github.com/markdown-it/markdown-it)
 
 ## Lorem Ipsum Dolor Sit Amet
 
