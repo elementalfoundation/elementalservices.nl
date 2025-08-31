@@ -1,120 +1,48 @@
-# Markdown-it
+# Elemental Services
 
-Let's see if this renders. 
+Hi there. My name is Dieter Van der Stock.  
 
-Thank you:  
-- [markdown-it](https://github.com/markdown-it/markdown-it)
+I'm a digital engineer. Like the engineer you'd hire to build your factory or office, but focused on applications, servers, and security instead of concrete and steel.
 
-## Lorem Ipsum Dolor Sit Amet
+## What I do
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod, nisi eu consectetur cursus, enim erat dictum urna, nec dictum massa enim nec erat. Etiam euismod, urna eu tincidunt consectetur, nisi nisl aliquam nunc, vitae aliquam nisi nisl eu nunc. Mauris euismod, urna eu tincidunt consectetur, nisi nisl aliquam nunc, vitae aliquam nisi nisl eu nunc.
+I specialise in:
 
-### Section 1: Pellentesque Habitant
+- building **custom cybersecurity solutions** in areas like vulnerability management, intrusion detection, and incident response.
+- building **software-as-a-service** (SaaS) applications, self-hosted or full service.
+- handling **operations and security** of servers, databases, and (sometimes) workstations.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+I've also worked on smart home alarm systems, served as a backup engineer on retainer, and more.  
 
-- Vivamus eget nibh. Etiam cursus leo vel metus.
-- Nulla facilisi. Aenean nec eros.
-- Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+The specifics of the assignment can be diverse. What matters to me is that I get to build and maintain something that serves a clear purpose, and I appreciate variety.
 
-#### Subsection: Etiam Cursus
+I prefer working in **Linux** and **open-source** environments, but that’s not a hard requirement.
 
-Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue.
+## Current and previous clients
 
-1. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla.
-2. Donec porta diam eu massa.
-3. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede.
+[anwb.nl](https://anwb.nl) | [articulate.com](https://articulate.com) | [arxus.eu](https://arxus.eu) | [CCOE Aruba](https://cybersecurity.aw/) | [swoogo.com](https://swoogo.com)
 
-### Section 2: Mauris Placerat
+## How I work
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+I mostly work **asynchronously**, meaning I choose when I work on projects, and that doesn’t necessarily conform to 9–5, Monday to Friday.  
 
-> "Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet purus."
+I do insist on **clear, regular, and respectful communication**, both ways. 
 
-Curabitur euismod, nisi vel consectetur cursus, enim erat dictum urna, nec dictum massa enim nec erat. Etiam euismod, urna eu tincidunt consectetur, nisi nisl aliquam nunc, vitae aliquam nisi nisl eu nunc.
+## More on how I work 
 
-## Fusce Pellentesque Suscipit
+It's good to **start with a small, well-defined project**, to give us time to build trust and limit risk.
 
-Fusce pellentesque suscipit nibh. Integer vitae libero ac risus egestas placerat. Vestibulum commodo felis quis tortor. Ut aliquam sollicitudin leo. Cras iaculis ultricies nulla.
+A good first project is to onboard me with the problem you’re trying to solve, your company, your processes, and your business, and let me deliver something small but useful. The deliverables will be both the code and the onboarding documentation.  
 
-### Section 3: Integer Vitae
+If you want to **open source** what we make, I’ll support that decision. Elemental Services is owned by the [Elemental Foundation](https://elementalfoundation.org), and open source supports our mission directly. But no code will be published unless you explicitly agree to it. 
 
-Integer vitae libero ac risus egestas placerat. Vestibulum commodo felis quis tortor. Ut aliquam sollicitudin leo. Cras iaculis ultricies nulla. Mauris placerat eleifend leo.
+---
 
-- Pellentesque habitant morbi tristique senectus et netus.
-- Malesuada fames ac turpis egestas.
-- Vestibulum tortor quam, feugiat vitae, ultricies eget.
+This is all about me. But I look forward to learning how you like to work, too.  
 
-#### Subsection: Vestibulum Commodo
+Reach out if I can be of help.  
+## Contact
 
-Vestibulum commodo felis quis tortor. Ut aliquam sollicitudin leo. Cras iaculis ultricies nulla. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+[LinkedIn](https://linkedin.com/in/vanderstockdieter) | dieter@elementalservices.nl
 
-1. Vestibulum erat wisi, condimentum sed, commodo vitae.
-2. Ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum.
-3. Eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
 
-### Section 4: Quisque Sit Amet
-
-Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
-
-> "Donec non enim in turpis pulvinar facilisis. Ut felis."
-
-## Nullam Mollis
-
-Nullam mollis. Ut justo. Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui magna, posuere eget, vestibulum et, tempor auctor, justo.
-
-### Section 5: Suspendisse Potenti
-
-Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui magna, posuere eget, vestibulum et, tempor auctor, justo.
-
-- In dui magna, posuere eget, vestibulum et, tempor auctor, justo.
-- In ac felis quis tortor malesuada pretium.
-- Pellentesque auctor neque nec urna.
-
-#### Subsection: Pellentesque Auctor
-
-Pellentesque auctor neque nec urna. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Aenean viverra rhoncus pede. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-1. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi.
-2. Aenean viverra rhoncus pede.
-3. Pellentesque habitant morbi tristique senectus et netus.
-
-### Section 6: Proin Sapien
-
-Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Aenean viverra rhoncus pede. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-> "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam."
-
-## Morbi In Sem Quis
-
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
-
-### Section 7: Sed Arcu
-
-Sed arcu. Cras consequat. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-
-- Praesent dapibus, neque id cursus faucibus.
-- Tortor neque egestas augue, eu vulputate magna eros eu erat.
-- Aliquam erat volutpat.
-
-#### Subsection: Praesent Dapibus
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-
-1. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-2. Praesent dapibus, neque id cursus faucibus.
-3. Tortor neque egestas augue, eu vulputate magna eros eu erat.
-
-### Section 8: Aliquam Erat
-
-Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.
-
-> "Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus."
-
-## Conclusion
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod, nisi eu consectetur cursus, enim erat dictum urna, nec dictum massa enim nec erat. Etiam euismod, urna eu tincidunt consectetur, nisi nisl aliquam nunc, vitae aliquam nisi nisl eu nunc. Mauris euismod, urna eu tincidunt consectetur, nisi nisl aliquam nunc, vitae aliquam nisi nisl eu nunc.
-
-Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui magna, posuere eget, vestibulum et, tempor auctor, justo. In ac felis quis tortor malesuada pretium. Pellentesque auctor neque nec urna.
-
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
