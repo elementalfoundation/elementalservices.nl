@@ -1,5 +1,6 @@
-# publishing-l1
+# elementalservices.nl
 
 Publishing template, based on [Markdown-it](https://github.com/markdown-it/markdown-it).
 
-Demo at https://elementalfoundation.github.io/publishing-l1/. 
+Preview at https://elementalfoundation.github.io/elementalservices.nl/. 
+
