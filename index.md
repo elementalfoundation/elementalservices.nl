@@ -12,9 +12,7 @@ I specialise in:
 - building software-as-a-service (SaaS) applications, self-hosted or full service.
 - handling operations and security of servers, databases, and (sometimes) workstations.
 
-I've also worked on smart home alarm systems, served as a backup engineer on retainer, and more.  
-
-The specifics of the assignment can be diverse. What matters to me is that I get to build and maintain something that serves a clear purpose, and I appreciate variety.
+I've also worked on smart home alarm systems, served as a backup engineer on retainer, and more. The specifics of the assignment can be diverse. What matters to me is that I get to build and maintain something that serves a clear purpose, and I appreciate variety.
 
 I prefer working in **Linux and open-source** environments, but that’s not a hard requirement.
 
