@@ -1,10 +1,14 @@
 body {
   font-family: system-ui, sans-serif;
-  margin: 2rem;
+  /*margin: 2rem;*/
   line-height: 1.6;
+  width: 100%;
+  max-width: 800px; /* sweet spot for readability */
+  margin: 0 auto;   /* centers it */
+  padding: 0 1rem;  /* keeps some space */
 }
 #content {
-  max-width: 800px;
+  /*max-width: 800px;*/
 }
 @media (prefers-color-scheme: dark) {
   body {
