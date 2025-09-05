@@ -1,7 +1,7 @@
 body {
   font-family: system-ui, sans-serif;
   /*margin: 2rem;*/
-  line-height: 1.6;
+  line-height: 1.75;
   width: 100%;
   max-width: 800px; /* sweet spot for readability */
   margin: 0 auto;   /* centers it */
