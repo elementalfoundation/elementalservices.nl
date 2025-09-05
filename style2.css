@@ -1,6 +1,6 @@
 /* Base styles */
 html {
-  font-size: 16px; /* scales well across devices */
+  font-size: 20px; /* scales well across devices */
   line-height: 1.6; /* good readability */
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
                Roboto, Helvetica, Arial, sans-serif;
