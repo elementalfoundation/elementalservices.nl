@@ -2,15 +2,15 @@
 
 Hi there. My name is Dieter Van der Stock.  
 
-I'm a digital engineer. Like the engineer you'd hire to build your factory or office, but focused on applications, servers, and security instead of concrete and steel.
+I'm a digital engineer. Like the engineer you'd hire to build your factory or office, but focused on **applications, servers, and security** instead of concrete and steel.
 
 ## What I do
 
 I specialise in:
 
-- building **custom cybersecurity solutions** in areas like vulnerability management, intrusion detection, and incident response.
-- building **software-as-a-service** (SaaS) applications, self-hosted or full service.
-- handling **operations and security** of servers, databases, and (sometimes) workstations.
+- building custom cybersecurity solutions in areas like vulnerability management, intrusion detection, and incident response.
+- building software-as-a-service (SaaS) applications, self-hosted or full service.
+- handling operations and security of servers, databases, and (sometimes) workstations.
 
 I've also worked on smart home alarm systems, served as a backup engineer on retainer, and more.  
 
