@@ -5,7 +5,7 @@ body {
   width: 100%;
   max-width: 800px; /* sweet spot for readability */
   margin: 0 auto;   /* centers it */
-  padding: 0 1rem;  /* keeps some space */
+  /* padding: 0 1rem;  /* keeps some space */
 }
 #content {
   font-size: 42px;
