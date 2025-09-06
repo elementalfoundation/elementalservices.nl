@@ -1,6 +1,7 @@
 body {
   font-family: system-ui, sans-serif;
   /*margin: 2rem;*/
+  font-size: 22px;
   line-height: 1.70;
   width: 100%;
   max-width: 800px; /* sweet spot for readability */
@@ -17,8 +18,8 @@ body {
   }
   body2 {
     background-color: #232627;
-    /* box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-    border-radius: 8px;*/
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    border-radius: 8px;
     padding: 2rem;
   }
   a {
