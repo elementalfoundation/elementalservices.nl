@@ -36,41 +36,8 @@ body {
 }
 
 /* Apply to <b> and <strong> everywhere */
-:where(b, strong) {
+:where(b, a, strong) {
   color: var(--bold-accent);
   color: var(--bold-accent-oklch);
   font-weight: 700; /* keep it bold even if global font-weight is altered */
-}
-
-/* Don’t fight link colors: if bold text sits inside a link, keep the link color */
-a :where(b, strong),
-:where(b, strong) a {
-  color: inherit;
-}
-
-/* If you use a .bold utility class anywhere, give it the same treatment */
-.bold {
-  color: var(--bold-accent);
-  color: var(--bold-accent-oklch);
-  font-weight: 700;
-}
-
-/* Optional: headings keep their own colors unless you explicitly want colored bold
-   inside headings too. Uncomment to color bold words inside H1–H6.
-h1 :where(b, strong),
-h2 :where(b, strong),
-h3 :where(b, strong),
-h4 :where(b, strong),
-h5 :where(b, strong),
-h6 :where(b, strong) {
-  color: var(--bold-accent);
-  color: var(--bold-accent-oklch);
-}
-*/
-
-/* Print: force black so it’s legible on paper */
-@media print {
-  :where(b, strong), .bold {
-    color: #000 !important;
-  }
 }
