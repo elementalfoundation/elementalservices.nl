@@ -32,7 +32,7 @@ I do insist on **clear, regular, and respectful communication**, both ways.
 
 It's good to **start with a small, well-defined project**, to give us time to build trust and limit risk.
 
-A good first project is to onboard me with the problem you’re trying to solve, your company, your processes, and your business, and let me deliver something small but useful. The deliverables will be both the code and the onboarding documentation.  
+A good first project is to onboard me on the problem you’re trying to solve, your business and your processes. I'll document what I learn and offer that as a deliverable, and maybe we can find a small technical project too in that first step. 
 
 If you want to open source what we make, I’ll support that decision. Elemental Services is owned by the [Elemental Foundation](https://elementalfoundation.org), and open source supports our mission directly. But no code will be published unless you explicitly agree to it. 
 
