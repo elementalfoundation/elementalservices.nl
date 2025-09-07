@@ -8,11 +8,11 @@ I'm a digital engineer. Like the engineer you'd hire to build your factory or of
 
 I specialise in:
 
-- building custom cybersecurity solutions in areas like vulnerability management, intrusion detection, and incident response.
-- building software-as-a-service (SaaS) applications, self-hosted or full service.
-- handling operations and security of servers, databases, and (sometimes) workstations.
+- Custom cybersecurity solutions in areas like vulnerability management, intrusion detection, and incident response.
+- Software-as-a-service (SaaS) applications, designing, building and hosting them.
+- Operations and security of servers, databases and workstations.
 
-I've also worked on smart home alarm systems, served as a fallback engineer on retainer, and more. The specifics of the assignment can be diverse. What matters to me is that I get to build and maintain something that serves a clear purpose, and I appreciate variety.
+I've also worked on home alarm systems, served as a fallback engineer on retainer, and more. The specifics of the assignment can be diverse. What matters to me is that I get to work on something that serves a clear purpose, and I appreciate variety.
 
 I prefer working in **Linux and open-source** environments, but that’s not a hard requirement.
 
