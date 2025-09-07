@@ -21,7 +21,7 @@ I prefer working in **Linux and open-source** environments, but that’s not a h
 ## Clients
 Current and previous.
 
-[anwb.nl](https://anwb.nl) | [articulate.com](https://articulate.com) | [arxus.eu](https://arxus.eu) | [cybersecurity.aw](https://cybersecurity.aw/) | [swoogo.com](https://swoogo.com)
+[anwb.nl](https://anwb.nl) • [articulate.com](https://articulate.com) • [arxus.eu](https://arxus.eu) • [cybersecurity.aw](https://cybersecurity.aw/) • [swoogo.com](https://swoogo.com)
 
 ## How I work
 
