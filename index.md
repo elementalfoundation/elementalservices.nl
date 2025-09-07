@@ -8,7 +8,7 @@ I'm a digital engineer. Like the engineer you'd hire to build your factory or of
 
 I specialise in:
 
-- Custom cybersecurity solutions in areas like vulnerability management, intrusion detection, and incident response.
+- Custom cybersecurity solutions, in areas like vulnerability management, intrusion detection, and incident response.
 - Software-as-a-service (SaaS) applications, designing, building and hosting them.
 - Operations and security of servers, databases and workstations.
 
