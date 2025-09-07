@@ -19,7 +19,6 @@ The specifics of the assignment can be diverse. I enjoy working on **deeply tech
 I prefer working in **Linux and open-source** environments, but that’s not a hard requirement.
 
 ## Clients
-Current and previous.
 
 [anwb.nl](https://anwb.nl) • [articulate.com](https://articulate.com) • [arxus.eu](https://arxus.eu) • [cybersecurity.aw](https://cybersecurity.aw/) • [swoogo.com](https://swoogo.com)
 
