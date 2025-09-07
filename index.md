@@ -2,7 +2,7 @@
 
 Hi there. My name is Dieter Van der Stock.  
 
-I'm a digital engineer. Like the engineer you'd hire to build your factory or office, but focused on **applications, servers, and security** instead of concrete and steel.
+I'm a digital engineer. Like the engineer you'd hire to build your factory or office, but with **applications, servers, and security** instead of concrete and steel.
 
 ## What I do
 
@@ -16,7 +16,8 @@ I've also worked on home alarm systems, served as a fallback engineer on retaine
 
 I prefer working in **Linux and open-source** environments, but that’s not a hard requirement.
 
-## Current and previous clients
+## Clients
+Current and previous
 
 [anwb.nl](https://anwb.nl) | [articulate.com](https://articulate.com) | [arxus.eu](https://arxus.eu) | [CCOE Aruba](https://cybersecurity.aw/) | [swoogo.com](https://swoogo.com)
 
@@ -32,7 +33,7 @@ It's good to **start with a small, well-defined project**, to give us time to bu
 
 A good first project is to onboard me with the problem you’re trying to solve, your company, your processes, and your business, and let me deliver something small but useful. The deliverables will be both the code and the onboarding documentation.  
 
-If you want to **open source** what we make, I’ll support that decision. Elemental Services is owned by the [Elemental Foundation](https://elementalfoundation.org), and open source supports our mission directly. But no code will be published unless you explicitly agree to it. 
+If you want to open source what we make, I’ll support that decision. Elemental Services is owned by the [Elemental Foundation](https://elementalfoundation.org), and open source supports our mission directly. But no code will be published unless you explicitly agree to it. 
 
 ---
 
