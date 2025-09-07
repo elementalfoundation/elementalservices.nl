@@ -14,7 +14,7 @@ I specialise in:
 
 I've also worked on home alarm systems, served as a fallback engineer on retainer, and other projects.  
 
-The specifics of the assignment can be diverse. I enjoy working on deeply technical projects that serve a clear purpose, and I appreciate variety.
+The specifics of the assignment can be diverse. I enjoy working on **deeply technical projects that serve a clear purpose**, and I appreciate variety.
 
 I prefer working in **Linux and open-source** environments, but that’s not a hard requirement.
 
@@ -25,7 +25,7 @@ Current and previous.
 
 ## How I work
 
-I mostly work **asynchronously**, meaning I choose when I work on projects, and that doesn’t necessarily conform to 9–5, Monday to Friday.  
+I mostly work **async**, meaning I choose when I work on projects, and that doesn’t necessarily conform to 9–5, Monday to Friday.  
 
 I do insist on **clear, regular, and respectful communication**, both ways. 
 
