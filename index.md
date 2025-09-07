@@ -14,7 +14,7 @@ I specialise in:
 
 I've also worked on home alarm systems, served as a fallback engineer on retainer, and other projects.  
 
-The specifics of the assignment can be diverse. What matters to me is that I get to work on something that serves a clear purpose, and I appreciate variety.
+The specifics of the assignment can be diverse. I enjoy working on something that serves a clear purpose, and I appreciate variety.
 
 I prefer working in **Linux and open-source** environments, but that’s not a hard requirement.
 
