@@ -30,11 +30,11 @@ I do insist on **clear, regular, and respectful communication**, both ways.
 
 ## More on how I work 
 
-It's good to **start with a small, well-defined project**, to give us time to build trust and limit risk.
+It's good to **start with a small, well-defined project**. This gives us time to build mutual trust and limit risk.
 
 For example: onboard me on the problem you’re trying to solve, your business and your processes. I'll document what I learn and offer that as a deliverable, and maybe we can find a small technical project too in that first step. 
 
-If you want to open source what we make, I’ll support that decision. Elemental Services is owned by the [Elemental Foundation](https://elementalfoundation.org), and open source supports our mission directly. But no code will be published unless you explicitly agree to it. 
+If you want to open source what we make down the linw, I’ll support that decision. Elemental Services is owned by the [Elemental Foundation](https://elementalfoundation.org), and open source supports our mission directly. But no code will be published unless you explicitly agree to it. 
 
 ---
 
