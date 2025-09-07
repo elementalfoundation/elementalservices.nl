@@ -25,7 +25,7 @@ Current and previous.
 
 ## How I work
 
-I mostly work **async**, meaning I choose when I work on our projects, and that doesn’t necessarily conform to 9–5, Monday to Friday.  
+I mostly work **async**, meaning I choose when I work on projects, and that doesn’t necessarily conform to 9–5, Monday to Friday.  
 
 I do insist on **clear, regular, and respectful communication**, both ways. 
 
